@@ -31,6 +31,7 @@ export default function App() {
     return <AppLoading />
   }
 
+
   return (
     <ThemeProvider theme={theme}>
       <StatusBar style="auto" />
