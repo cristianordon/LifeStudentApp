@@ -1,12 +1,12 @@
 import React from 'react';
-import { Text, View } from 'react-native';
 
-import { Container } from './styles';
+
+import { Container, Title } from './styles';
 
 export function Home() {
     return (
         <Container>
-            <Text>Open up App.js to start working on your app!</Text>
+            <Title>Life Student</Title>
         </Container>
     );
 }
